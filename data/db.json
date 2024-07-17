@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "id": "015f",
+      "userId": 1,
+      "title": "walkthrough by tutor",
+      "completed": true,
+      "created": 1721247182072
+    },
+    {
+      "id": "838f",
+      "userId": 1,
+      "title": "encoutered bugs",
+      "completed": true,
+      "created": 1721247206466
+    },
+    {
+      "id": "98d9",
+      "userId": 1,
+      "title": "fix bugs of sorting",
+      "completed": true,
+      "created": 1721247230995
+    }
+  ]
+}
